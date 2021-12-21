@@ -16,7 +16,9 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Pig Latin Generator
 - Weight Tracker App
 - Recipes App
+- static website
 - Rock, Paper, Scissors Game
+
 
 ## Level 2: Intermediate
 
@@ -29,6 +31,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Web Scraper
 - Flash Card App
 - Address Book (Contact Manager)
+
 
 ## Level 3: Capstone
 
