@@ -9,6 +9,9 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 ## Level 1: Basic
 
 ### Examples:
+- Static website
+    - Personal Website
+    - Website for Local Business (Real or Create a Fake Business)
 - Digital Clock
 - Todo App
 - Expense Tracker
@@ -16,7 +19,6 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Pig Latin Generator
 - Weight Tracker App
 - Recipes App
-- static website
 - Rock, Paper, Scissors Game
 
 
