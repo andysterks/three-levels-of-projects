@@ -20,6 +20,7 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Weight Tracker App
 - Recipes App
 - Rock, Paper, Scissors Game
+- [Note Taking App](https://andysterks.github.io/note-taking-app/)
 
 
 ## Level 2: Intermediate
